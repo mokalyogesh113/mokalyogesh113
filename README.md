@@ -5,14 +5,14 @@
 
 
 <h2>Social Handle</h2>
-<a href="https://www.linkedin.com/in/mokalyogesh113/"><img
+<a href="https://www.linkedin.com/in/mokalyogesh113/" target="_blank" ><img
         src="https://img.shields.io/badge/mokalyogesh113-30302f?style=flat&logo=linkedin" alt=""></a>
-<a href="https://twitter.com/yogeshmokal4"><img
+<a href="https://twitter.com/yogeshmokal4" target="_blank" ><img
         src="https://img.shields.io/badge/@yogeshmokal4-30302f?style=flat&logo=twitter" alt=""></a>
-<a href="mailto:mokalyogesh113@gmail.com"><img
+<a href="mailto:mokalyogesh113@gmail.com" target="_blank" ><img
         src="https://img.shields.io/badge/@mokalyogesh113@gmail.com-30302f?style=flat&logo=gmail" alt=""></a>
-<a href="https://www.instagram.com/tricky__mind.me"><img src="https://img.shields.io/badge/@tricky__mind.me-30302f?style=flat&logo=instagram" alt=""></a>
-<a href="http://t.me/mokalyogesh113"><img src="https://img.shields.io/badge/mokalyogesh113-30302f?style=flat&logo=telegram" alt=""></a>
+<a href="https://www.instagram.com/tricky__mind.me" target="_blank" ><img src="https://img.shields.io/badge/@tricky__mind.me-30302f?style=flat&logo=instagram" alt=""></a>
+<a href="http://t.me/mokalyogesh113"  target="_blank" ><img src="https://img.shields.io/badge/mokalyogesh113-30302f?style=flat&logo=telegram" alt=""></a>
 
 <h2>Tech Stack<img id="typing-man"
         src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40px"
