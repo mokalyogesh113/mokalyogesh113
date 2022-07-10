@@ -11,7 +11,9 @@
 <a href=""><img src="https://img.shields.io/badge/@tricky__mind.me-30302f?style=flat&logo=instagram" alt=""></a>
 <a href=""><img src="https://img.shields.io/badge/mokalyogesh113-30302f?style=flat&logo=telegram" alt=""></a>
 
-<h2 align="left">Tech Stack<img id="typing-man" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40px" alt=""></h2>
+<h2 align="left">Tech Stack<img id="typing-man"
+        src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40px"
+        style="position: relative;top: 7px;" alt=""></h2>
 <p align="left">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
@@ -26,14 +28,9 @@
     <!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
-</p> 
+</p>
 <hr style="height:1px;">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokalyogesh113&theme=outrun" alt="">
+
 </html>
-<style>
-    #typing-man{
-        position: relative;
-        top: 7px;
-    }
-</style>
