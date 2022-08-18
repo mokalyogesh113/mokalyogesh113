@@ -1,6 +1,6 @@
 <html>
 <h1>Hey there , I'm <a href="https://github.com/mokalyogesh113">Yogesh</a> 
-<img src="hi.gif" alt="" width="100px" style="position:relative;top:20px; left:10px;">
+<img src="hi.gif" alt="" width="100px" style="position:relative;top:20px; left:10px; size: 50%;">
 </h1>
 
 
