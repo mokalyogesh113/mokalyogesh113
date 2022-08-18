@@ -1,5 +1,6 @@
 <html>
-<h1>Hey there , I'm <a href="https://github.com/mokalyogesh113">Yogesh</a> <img src="hello.png" alt="" width="100px">
+<h1>Hey there , I'm <a href="https://github.com/mokalyogesh113">Yogesh</a> 
+<!-- <img src="hello.png" alt="" width="100px"> -->
 </h1>
 
 
