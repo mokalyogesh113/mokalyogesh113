@@ -32,14 +32,18 @@
     <!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
-</p>
-<hr style="height:1px;">
+
+       
+  </p>
+
+       <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mokalyogesh113/count.svg" />
+</p> 
+        <hr style="height:1px;">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokalyogesh113&theme=outrun" alt="" align ="center" >
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mokalyogesh113/count.svg" />
-</p>        
+       
         
 </html>
