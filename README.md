@@ -42,7 +42,9 @@
 
 <hr style="height:1px;">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokalyogesh113&theme=outrun" alt="" align ="center" >
+<p align ="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokalyogesh113&theme=outrun" alt="">
+</p>
 
 </html>
 
