@@ -37,12 +37,13 @@
   </p>
 
        <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mokalyogesh113/count.svg" />
-</p> 
+        Visitor count<br>
+        <img src="https://profile-counter.glitch.me/mokalyogesh113/count.svg" />
+       </p> 
+        
         <hr style="height:1px;">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokalyogesh113&theme=outrun" alt="" align ="center" >
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokalyogesh113&theme=outrun" alt="" align ="center" >
 
        
         
