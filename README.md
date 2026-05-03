@@ -1,57 +1,82 @@
+# Hi, I'm Yogesh Mokal 👋
 
-<html>
+🚀 Data Engineer at Infosys
+💡 Working with PySpark, Databricks, and Big Data Systems
+🎯 Goal: Transition into a Product-Based Company as SDE-1
 
-<h1>Hey there , I'm <a href="https://github.com/mokalyogesh113">Yogesh</a> 
-<img src="hi.gif" alt="" width="100px" style="position:relative;top:20px; left:10px; max-width: 50%;">
-</h1>
+---
 
+## 🧠 About Me
 
+* Experienced in building and optimizing ETL pipelines
+* Strong in problem-solving and Data Structures & Algorithms
+* Comfortable learning and adapting to new technologies quickly
+* Currently focused on scalable data processing and system design
 
-<h2>Social Handle</h2>
-<a href="https://www.linkedin.com/in/mokalyogesh113/" target="_blank" ><img
-        src="https://img.shields.io/badge/mokalyogesh113-30302f?style=flat&logo=linkedin" alt=""></a>
-<a href="https://twitter.com/yogeshmokal4" target="_blank" ><img
-        src="https://img.shields.io/badge/@yogeshmokal4-30302f?style=flat&logo=twitter" alt=""></a>
-<a href="mailto:mokalyogesh113@gmail.com" target="_blank" ><img
-        src="https://img.shields.io/badge/@mokalyogesh113@gmail.com-30302f?style=flat&logo=gmail" alt=""></a>
-<a href="https://www.instagram.com/tricky__mind.me" target="_blank" ><img src="https://img.shields.io/badge/@tricky__mind.me-30302f?style=flat&logo=instagram" alt=""></a>
-<a href="http://t.me/mokalyogesh113"  target="_blank" ><img src="https://img.shields.io/badge/mokalyogesh113-30302f?style=flat&logo=telegram" alt=""></a>
+---
 
-<h2>Tech Stack<img id="typing-man"
-        src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40px"
-        style="position: relative;top: 7px;" alt=""></h2>
-<p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySql-07405E?style=for-the-badge&logo=mysql&logoColor=white%22" alt="">
+## 🛠 Tech Stack
 
-<!-- <img src="https://img.shields.io/badge/Bulma-00C7B7?style=for-the-badge&logo=bulma&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> -->
-<!-- <br> -->
-<!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
+**Languages**
 
-  </p>
+* Python, Java, C++, SQL
 
+**Big Data & Tools**
 
-<hr style="height:1px;">
-<br>
-<p align ="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokalyogesh113&theme=outrun" alt="">
-</p>
+* PySpark, Databricks
+* Hadoop Ecosystem
 
-</html>
+**Backend & Tools**
 
+* Spring Boot
+* Git, Linux
 
-<!-- <p align="center">
-        Visitor count<br>
-        <img src="https://profile-counter.glitch.me/mokalyogesh113/count.svg" />
-</p>
+---
 
-<hr style="height:1px;"> -->
+## 📌 Featured Projects
+
+### 🔹 End-to-End Data Pipeline (PySpark & Databricks)
+
+* Designed and implemented ETL pipeline from raw to foundation layer
+* Performed data transformation, joins, and aggregations
+* Followed data modeling based on business requirements
+
+---
+
+### 🔹 Streaming Data Analysis (PySpark)
+
+* Processed large-scale user engagement datasets
+* Applied transformations and analytics on streaming-like data
+* Optimized queries for better performance
+
+---
+
+### 🔹 Data Structures & Algorithms
+
+* Solved problems across arrays, trees, graphs, and dynamic programming
+* Focused on writing optimized and clean code
+
+---
+
+## 📈 GitHub Stats
+
+![Yogesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mokalyogesh113\&show_icons=true\&hide_border=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mokalyogesh113\&layout=compact\&hide_border=true)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mokalyogesh113\&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/your-link
+* Email: [mokalyogesh113@gmail.com](mailto:mokalyogesh113@gmail.com)
+
+---
+
+⭐ *Always learning, building, and improving.*
